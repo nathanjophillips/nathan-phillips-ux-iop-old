@@ -1,5 +1,5 @@
 ---
-name: Onboarding Issue template
+name: Issue template
 about: A template to help better communicate the issues in this project
 
 ---
