@@ -1,5 +1,5 @@
-# nathan-phillips-ux-iop
-Banno UX Onboarding Project
+# Banno UX Onboarding Project
+
 
 
 ## Main Goal
