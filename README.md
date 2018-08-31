@@ -1,15 +1,8 @@
-# Banno UX Onboarding Project
+# UX Intern Onboarding Project
+_Nathan Phillips_
+
+## Description
+_A Project to learn and show the skills I will use to perform on the UX team_
 
 
 
-## Main Goal
-_Describe generally what will be added/changed_
-
-### When Accomplished
-- [ ] _Specific items that need to work or be observed before the issue is completed_
-
-## Notes
-_Include that otherwise needs to be said. Good place for hints or resources._
-
-### Dependencies
-- [ ] _Linked issues or PRs required to be complete before work on this issue is possible_
