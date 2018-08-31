@@ -1,8 +1,8 @@
 # UX Intern Onboarding Project
-_Nathan Phillips_
+By: Nathan Phillips
 
 ## Description
-_A Project to learn and show the skills I will use to perform on the UX team_
+A Project to learn and show the skills I will use to perform on the UX team
 
 
 
