@@ -2,7 +2,16 @@
 By: Nathan Phillips
 
 ## Description
-A Project to learn and show the skills I will use to perform on the UX team
+This Project is used to create and manage a list of user profiles.
+
+The list can be manipulated by creating new users, editing current users, and deleting users.
+
+Each user profile has a unique ID, Name, Phone, Email.
+
+## How to Use
+_Describe generally what will be added/changed_
 
 
+### Dependencies
+- [ ] _Linked issues or PRs required to be complete before work on this issue is possible_
 
