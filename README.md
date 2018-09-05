@@ -6,7 +6,7 @@ This Project is used to create and manage a list of user profiles.
 
 The list can be manipulated by creating new users, editing current users, and deleting users.
 
-Each user profile has a unique ID, Name, Phone, Email.
+Each user profile has a unique ID, Name, Phone,and Email.
 
 ## How to Use
 _Describe generally what will be added/changed_
